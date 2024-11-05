@@ -2,7 +2,7 @@
 
 ## GitHub Actions
 
-[![Build and Tests](https://github.com/guirms/playwright-test/actions/workflows/node.js.yml/badge.svg?branch=master)](https://github.com/guirms/playwright-test/actions/workflows/node.js.yml)
+[![Build and Tests](https://github.com/guirms/playwright-test/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/guirms/playwright-test/actions/workflows/node.js.yml)
 
 ## Getting Started
 
